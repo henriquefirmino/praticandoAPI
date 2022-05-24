@@ -3,7 +3,6 @@ package com.projects.praticandoAPI.controller.form;
 import com.projects.praticandoAPI.modelo.Exercicio;
 import com.projects.praticandoAPI.modelo.Topico;
 import com.projects.praticandoAPI.repository.ExercicioRepository;
-import com.projects.praticandoAPI.repository.UsuarioRepository;
 
 public class ExercicioForm {
     

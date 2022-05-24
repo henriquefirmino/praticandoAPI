@@ -2,13 +2,8 @@ package com.projects.praticandoAPI.controller.dto;
 import com.projects.praticandoAPI.modelo.Exercicio;
 import com.projects.praticandoAPI.modelo.Topico;
 
-
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
-
-import javax.persistence.ManyToOne;
-
 
 
 public class ExercicioDTO {
