@@ -1,4 +1,4 @@
-# Integrantes
+# Engenharia de Software II - AC2
 
 Henrique Casarini Firmino - 180185 
 Higor Matheus Luvizotto Deni - 160291
