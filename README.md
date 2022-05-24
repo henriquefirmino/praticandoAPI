@@ -1,5 +1,5 @@
-##Integrantes
+Integrantes
 
-Henrique Casarini Firmino - 180185
-Higor Matheus Luvizotto Deni - 160291
-Lucas Amorim de Paula - 180045
+Henrique Casarini Firmino - 180185\n
+Higor Matheus Luvizotto Deni - 160291\n
+Lucas Amorim de Paula - 180045\n
